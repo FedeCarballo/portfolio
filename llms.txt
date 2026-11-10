@@ -1,0 +1,32 @@
+# Federico Carballo — Desarrollador Full Stack y consultor SEO técnico
+
+> Desarrollador Full Stack orientado a SEO en Buenos Aires, Argentina. Más de 4 años en e-commerce para marcas de Latinoamérica sobre VTEX IO. Ofrece como freelance auditorías SEO técnicas, SEO para e-commerce VTEX, datos estructurados (Schema.org / JSON-LD), GEO (visibilidad en buscadores con IA) y desarrollo web a medida. Trabajo remoto en español e inglés.
+
+## Perfil
+
+- [Portfolio en español](https://fedecarballo.github.io/portfolio/): servicios, experiencia, proyectos y contacto
+- [Portfolio in English](https://fedecarballo.github.io/portfolio/en/): the same content in English
+- [LinkedIn](https://www.linkedin.com/in/federico-concepcion-carballo-benitez/)
+- [GitHub](https://github.com/FedeCarballo)
+- Email: carballo523@gmail.com
+
+## Experiencia
+
+- BC Tecnología (2026 – actualidad): desarrollador Full Stack orientado a SEO, asignado al equipo regional de Cencosud.
+- Infracommerce (2025 – 2026): Front-End Developer Semi Senior. SSR en PLP y PDP sobre VTEX IO, sitemaps XML, JSON-LD, microservicios Node.js y GraphQL para Tugo, Rouge, Vans, Rubbermaid, Atomik y Farmaplus.
+- E-Cruce (2023 – 2025): Front-End Developer. Implementación de tiendas VTEX IO y migraciones desde VTEX Legacy para Colorshop, Farmaplus, Grupo UNIBER, Universo Aventura y Sportline.
+- Desarrollador web freelance (2021 – 2024).
+
+## Servicios de SEO técnico
+
+- Auditoría SEO técnica: indexación, metadatos y Core Web Vitals, con un plan priorizado por impacto.
+- SEO para tiendas VTEX IO: Server-Side Rendering en listados (PLP) y productos (PDP), categorías indexables.
+- Datos estructurados y GEO: JSON-LD de producto, organización y FAQ para Google y para buscadores con IA.
+- Sitemaps y rastreo: sitemaps XML, robots.txt y canonical.
+
+## Desarrollo web y e-commerce
+
+- Sitios y landing pages para pymes y profesionales (HTML, React), con el SEO resuelto desde el inicio.
+- Tiendas VTEX IO: implementaciones nuevas y migraciones desde VTEX Legacy.
+- Componentes y apps custom en React y TypeScript, conectados por GraphQL.
+- Microservicios en Node.js y APIs GraphQL.

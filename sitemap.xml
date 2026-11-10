@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://fedecarballo.github.io/portfolio/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://fedecarballo.github.io/portfolio/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fedecarballo.github.io/portfolio/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fedecarballo.github.io/portfolio/"/>
+    <image:image>
+      <image:loc>https://fedecarballo.github.io/portfolio/img/og-image.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fedecarballo.github.io/portfolio/img/proyectos/duende-arte-y-cocina.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fedecarballo.github.io/portfolio/img/proyectos/re-agite-inclusivo.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fedecarballo.github.io/portfolio/img/proyectos/wircom-sa.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fedecarballo.github.io/portfolio/img/proyectos/mel7e-ecommerce.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fedecarballo.github.io/portfolio/img/certificados/educacionit-seo-geo-full.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fedecarballo.github.io/portfolio/img/certificados/henry-full-stack-full.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fedecarballo.github.io/portfolio/img/certificados/coderhouse-front-end-full.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fedecarballo.github.io/portfolio/img/certificados/educacionit-pmbok-7-full.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fedecarballo.github.io/portfolio/img/certificados/educacionit-gestion-de-proyectos-full.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fedecarballo.github.io/portfolio/img/certificados/educacionit-liderazgo-full.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://fedecarballo.github.io/portfolio/en/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://fedecarballo.github.io/portfolio/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fedecarballo.github.io/portfolio/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fedecarballo.github.io/portfolio/"/>
+    <image:image>
+      <image:loc>https://fedecarballo.github.io/portfolio/img/og-image-en.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fedecarballo.github.io/portfolio/img/proyectos/duende-arte-y-cocina.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fedecarballo.github.io/portfolio/img/proyectos/re-agite-inclusivo.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fedecarballo.github.io/portfolio/img/proyectos/wircom-sa.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fedecarballo.github.io/portfolio/img/proyectos/mel7e-ecommerce.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fedecarballo.github.io/portfolio/img/certificados/educacionit-seo-geo-full.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fedecarballo.github.io/portfolio/img/certificados/henry-full-stack-full.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fedecarballo.github.io/portfolio/img/certificados/coderhouse-front-end-full.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fedecarballo.github.io/portfolio/img/certificados/educacionit-pmbok-7-full.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fedecarballo.github.io/portfolio/img/certificados/educacionit-gestion-de-proyectos-full.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fedecarballo.github.io/portfolio/img/certificados/educacionit-liderazgo-full.webp</image:loc>
+    </image:image>
+  </url>
+</urlset>
